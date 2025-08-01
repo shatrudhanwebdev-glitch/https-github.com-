@@ -5,4 +5,4 @@ I’m passionate about web development and currently learning HTML, CSS, JavaScr
 I love building useful and creative projects, and I’m always excited to learn something new.
 
 📬 Email: shatrudhan.webdev@gmail.com  
-🌐 GitHub: [github.com/Shatrudhan-kumar-dev](https://github.com/Shatrudhan-kumar-dev)
+🌐 GitHub: [github.com/Shatrudhan-kumar-dev](https://github.com/shatrudhanwebdev-glitch/https-github.com-)
